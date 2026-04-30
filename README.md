@@ -18,7 +18,7 @@ Este projeto apresenta a migração de uma aplicação legada para uma arquitetu
 ---
 
 ## 📺 Demonstração
-*   **Vídeo do Projeto:** [Assista aqui no YouTube](COLE_SEU_LINK_AQUI)
+*   **Vídeo do Projeto:** [Assista aqui no YouTube](https://youtu.be/9I4pvTSLmTk?si=wmFIUZhmPoKtZXxR)
 *   **IP Público da VM (Azure):** `20.63.36.109`
 
 ---
@@ -51,7 +51,7 @@ A stack tecnológica foi orquestrada via **Docker Compose**, garantindo isolamen
     ```
 
 3.  **Acesse a aplicação:**
-    Abra o navegador em `http://localhost:80` (ou o IP da sua máquina).
+    Abra o navegador em `http://localhost:80` (ou o IP da máquina: http://20.63.36.109:80).
 
 ---
 
